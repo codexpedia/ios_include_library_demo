@@ -1,0 +1,6 @@
+framework module Pods_ios_include_library_demo {
+  umbrella header "Pods-ios_include_library_demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
